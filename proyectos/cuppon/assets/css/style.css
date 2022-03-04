@@ -1,0 +1,31 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+nav{
+    background-color: #28A745;
+}
+
+.lugar{
+    font-size: 0.82rem;
+}
+
+.p-antes{
+    color:#707070;
+    font-size: 1rem;
+    text-decoration: line-through;
+}
+
+.p-nuevo{
+    font-size: 1.2rem;
+    color: #28a745;
+
+}
+
+.bg-verde{
+    background-color: #28A745;
+}
+
+.text-gris{
+    color: #707070;
+}
